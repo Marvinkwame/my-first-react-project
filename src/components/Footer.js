@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import Twitter from '../components/Twitter-Icon.png';
 import Facebook from '../components/Facebook-Icon.png';
 import Instagram from '../components/Instagram-Icon.png';
