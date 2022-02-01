@@ -16,7 +16,7 @@ export default function Info() {
             <div className="info-btns">
                 <div>
                     <button className="email-btn" type="button">
-                        <img src={email} className="email-logo" alt="email-logo" /><a href=""></a>
+                        <img src={email} className="email-logo" alt="email-logo" /><a href="mailto: marvinkudjo@gmail.com"></a>
                         Email</button>
                 </div>
 
